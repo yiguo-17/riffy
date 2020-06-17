@@ -2,9 +2,8 @@
 
 ### Introduction
 
-Today you're going to make a little node app that can take in user input and
-spit out appropriate output. All on the command line. Because we're all node
-ninjas now!
+Today you're going to make a little node app OF OUR OWN DESIGN that can take in user input and
+spit out appropriate output. Because we're all node ninjas now!
 
 
 ### Objectives
