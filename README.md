@@ -27,7 +27,7 @@ We'll be presenting these apps, so put your best foot forward!
 
 * Your content must be [SFW](https://en.wikipedia.org/wiki/Not_safe_for_work).
 * You must have a separate front end and back end. That means, at a minimum a `main.js` file with no app logic, only input/output logic.
-* We'll also be converting that proposal into a proper README for our app. Guidelines on that coming soon!
+* We'll also be converting that proposal into a proper README for our app. Guidelines on that coming soon, and yes, it is an absolute requirement.
 * If you're done early, come talk to us. We can always suggest ways you can extend your app!
 
 
