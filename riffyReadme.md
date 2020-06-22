@@ -14,7 +14,7 @@ The how much caffein app will calculate the amount of caffein you already taken 
 
 1. Javascript
 2. Node
-3. Date from Google
+3. Data from Google
 
 ## Author
 
